@@ -86,7 +86,7 @@ header{
 .landing-page{
     width: 100%;
     min-height: 100vh;
-    background-image:  linear-gradient(to bottom right, #D8F3DC, #081C15);
+    background-image:  linear-gradient(to bottom right, #3b4679, #283153);
     position: relative;
     overflow: hidden;
     display: flex;
